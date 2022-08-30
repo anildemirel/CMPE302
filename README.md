@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anilldemirell
+- 👋 Hi, I’m Anıl Demirel
 - 👀 I’m interested in Machine Learning, NLP, Data Science and Business Intelligence
 - 🌱 I’m currently learning SQL, Tableau and Power BI
 - 📫 How to reach me www.linkedin.com/in/anildemirel/ and anil.demirel@tutanota.de
