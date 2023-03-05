@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anıl Demirel
-- 👀 I’m interested in Machine Learning, NLP, Data Science and Business Intelligence
+- 👀 I’m interested in Machine Learning and Business Intelligence
 - 📫 How to reach me www.linkedin.com/in/anildemirel/ and anildemirel@yahoo.com
 
 <!---
