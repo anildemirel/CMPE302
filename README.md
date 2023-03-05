@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Anıl Demirel
-- 👀 I’m interested in Machine Learning and Business Intelligence
-- 📫 How to reach me www.linkedin.com/in/anildemirel/ and anildemirel@yahoo.com
+-  Hi, I’m Anıl Demirel
+-  I’m Business Intelligence & Data Analytics Consultant 
+- How to reach me www.linkedin.com/in/anildemirel/ and anildemirel@yahoo.com
 
 <!---
 anilldemirell/anilldemirell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
