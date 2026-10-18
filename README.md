@@ -1,5 +1,5 @@
 -  Hi, I’m Anıl Demirel
--  I’m Business Intelligence & Data Analytics Consultant 
+
 - How to reach me www.linkedin.com/in/anildemirel/ and anildemirel@yahoo.com
 
 <!---
